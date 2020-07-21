@@ -1,3 +1,5 @@
 Código fonte XYZ...
 
 Arquivo alterado novamente
+
+Alteração realizada por outro DEV
